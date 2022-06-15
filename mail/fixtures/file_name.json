@@ -1,0 +1,2741 @@
+[
+{
+  "model": "mail.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$Uj02549zssegOgkjx1qI1F$l7xe96XlU8odU+3wLPpPkrWOQjyXlu+TCd+AP3zVUrk=",
+    "last_login": "2022-01-13T16:29:39.651Z",
+    "is_superuser": false,
+    "username": "ale@ale.com",
+    "first_name": "",
+    "last_name": "",
+    "email": "ale@ale.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-01-04T16:47:35.669Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "mail.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$dJpjlYXMCBLx3Bwh1p3l1b$EsDg5A7VnJvRBPq+qwjmG5zQYUOyrCELG2ZUG1tFrkw=",
+    "last_login": "2022-01-17T17:25:58.252Z",
+    "is_superuser": true,
+    "username": "Ale",
+    "first_name": "",
+    "last_name": "",
+    "email": "ale@ale.it",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-01-08T16:51:33.860Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "mail.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$yAUQzEEuhQIyozLK7l6SO6$wAB3IGJfPajVKL9fNLSJgsTjoIpbQiADwqv6HS8Lud8=",
+    "last_login": "2022-01-09T16:51:18Z",
+    "is_superuser": false,
+    "username": "alex@alex.it",
+    "first_name": "",
+    "last_name": "",
+    "email": "alex@alex.it",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-01-08T17:46:36Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "mail.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$OF3ryuXOwPW5rWovi2MUok$PxrWfhvXVRsFliRsawYO++nCtiXg5N15Ry9+uuYRSR4=",
+    "last_login": "2022-01-17T17:22:19.106Z",
+    "is_superuser": false,
+    "username": "a@a.it",
+    "first_name": "",
+    "last_name": "",
+    "email": "a@a.it",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-01-08T19:10:04.349Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "mail.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$320000$e3v9SVu4zlwN0QQrucOJqz$/Zbnr+MNflwlwoKKdy9mnqgFauRWAu/0gHBqyUYLDG0=",
+    "last_login": "2022-06-15T10:14:29.413Z",
+    "is_superuser": false,
+    "username": "the_user@mail.it",
+    "first_name": "",
+    "last_name": "",
+    "email": "the_user@mail.it",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-01-13T16:22:45.634Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "mail.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$8J6HuBCPXK8kDke0khp3sx$yDk5gZUvJ3FcG0b8I47zQ7gKCAce9OWpL64rHdi9Zq4=",
+    "last_login": "2022-01-13T16:52:13.730Z",
+    "is_superuser": false,
+    "username": "sender_of@emails.com",
+    "first_name": "",
+    "last_name": "",
+    "email": "sender_of@emails.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-01-13T16:23:53.627Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "mail.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$Sqj6E4c1LEpyKEFyH8UhzR$Lan2j2Jyhrp+MYkYF7kealbrFGC8u5y2r7tt13DmmEA=",
+    "last_login": "2022-01-13T16:31:44.495Z",
+    "is_superuser": false,
+    "username": "not@scam.com",
+    "first_name": "",
+    "last_name": "",
+    "email": "not@scam.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-01-13T16:31:44.309Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "mail.user",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$260000$4cdpYbX74l1cstKWZ4HRqj$At+4jZbRtktNPTjzAwgQ8pMKmL7sXIMIEIgWMZkRYKs=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "ale",
+    "first_name": "",
+    "last_name": "",
+    "email": "ale@ale.it",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-01-17T17:25:42.242Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 1,
+  "fields": {
+    "user": 1,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:05.025Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 2,
+  "fields": {
+    "user": 3,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:05.036Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 3,
+  "fields": {
+    "user": 1,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:06.075Z",
+    "read": true,
+    "archived": true,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 4,
+  "fields": {
+    "user": 3,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:06.082Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 5,
+  "fields": {
+    "user": 1,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:07.559Z",
+    "read": true,
+    "archived": true,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 6,
+  "fields": {
+    "user": 3,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:07.566Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 7,
+  "fields": {
+    "user": 1,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:15.166Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 8,
+  "fields": {
+    "user": 3,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:15.172Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 9,
+  "fields": {
+    "user": 1,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:16.088Z",
+    "read": true,
+    "archived": true,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 10,
+  "fields": {
+    "user": 3,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:16.094Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 11,
+  "fields": {
+    "user": 1,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:17.361Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 12,
+  "fields": {
+    "user": 3,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:30:17.367Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 13,
+  "fields": {
+    "user": 1,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:31:19.700Z",
+    "read": true,
+    "archived": true,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 14,
+  "fields": {
+    "user": 3,
+    "sender": 3,
+    "subject": "Meeting time",
+    "body": "How about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-09T21:31:19.706Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 15,
+  "fields": {
+    "user": 1,
+    "sender": 2,
+    "subject": "AAA",
+    "body": "BBB",
+    "timestamp": "2022-01-09T21:37:50.710Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 16,
+  "fields": {
+    "user": 2,
+    "sender": 2,
+    "subject": "AAA",
+    "body": "BBB",
+    "timestamp": "2022-01-09T21:37:50.718Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 17,
+  "fields": {
+    "user": 1,
+    "sender": 2,
+    "subject": "TEST multiple rec",
+    "body": "BBODY",
+    "timestamp": "2022-01-09T21:38:45.348Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 18,
+  "fields": {
+    "user": 2,
+    "sender": 2,
+    "subject": "TEST multiple rec",
+    "body": "BBODY",
+    "timestamp": "2022-01-09T21:38:45.355Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 19,
+  "fields": {
+    "user": 4,
+    "sender": 2,
+    "subject": "TEST multiple rec",
+    "body": "BBODY",
+    "timestamp": "2022-01-09T21:38:45.362Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 20,
+  "fields": {
+    "user": 2,
+    "sender": 2,
+    "subject": "a",
+    "body": "a",
+    "timestamp": "2022-01-09T21:41:05.157Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 21,
+  "fields": {
+    "user": 4,
+    "sender": 2,
+    "subject": "a",
+    "body": "a",
+    "timestamp": "2022-01-09T21:41:05.164Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 22,
+  "fields": {
+    "user": 2,
+    "sender": 2,
+    "subject": "a",
+    "body": "a",
+    "timestamp": "2022-01-09T21:41:06.792Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 23,
+  "fields": {
+    "user": 4,
+    "sender": 2,
+    "subject": "a",
+    "body": "a",
+    "timestamp": "2022-01-09T21:41:06.800Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 24,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Recived",
+    "body": "Hello",
+    "timestamp": "2022-01-12T10:21:47.178Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 25,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Recived",
+    "body": "Hello",
+    "timestamp": "2022-01-12T10:21:47.188Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 26,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Test redirect",
+    "body": "Did it redirect the user to the sent mailbox?\n",
+    "timestamp": "2022-01-12T14:33:32.196Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 27,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Test redirect",
+    "body": "Did it redirect the user to the sent mailbox?\n",
+    "timestamp": "2022-01-12T14:33:32.204Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 28,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Test redirect",
+    "body": "Did it redirect the user to the sent mailbox?\n",
+    "timestamp": "2022-01-12T14:33:34.301Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 29,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Test redirect",
+    "body": "Did it redirect the user to the sent mailbox?\n",
+    "timestamp": "2022-01-12T14:33:34.307Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 30,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Test redirect",
+    "body": "Did it redirect the user to the sent mailbox?\n",
+    "timestamp": "2022-01-12T14:33:36.686Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 31,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Test redirect",
+    "body": "Did it redirect the user to the sent mailbox?\n",
+    "timestamp": "2022-01-12T14:33:36.694Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 32,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Test redirect",
+    "body": "Did it redirect the user to the sent mailbox?\n",
+    "timestamp": "2022-01-12T14:33:41.918Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 33,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Test redirect",
+    "body": "Did it redirect the user to the sent mailbox?\n",
+    "timestamp": "2022-01-12T14:33:41.925Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 34,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Test2 redirect",
+    "body": "is it?",
+    "timestamp": "2022-01-12T14:35:30.488Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 35,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Test2 redirect",
+    "body": "is it?",
+    "timestamp": "2022-01-12T14:35:30.499Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 36,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Test2 redirect",
+    "body": "is it?",
+    "timestamp": "2022-01-12T14:35:30.493Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 37,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Test2 redirect",
+    "body": "is it?",
+    "timestamp": "2022-01-12T14:35:30.520Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 38,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Test3",
+    "body": "a",
+    "timestamp": "2022-01-12T14:37:04.151Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 39,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Test3",
+    "body": "a",
+    "timestamp": "2022-01-12T14:37:04.158Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 40,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Test3",
+    "body": "a",
+    "timestamp": "2022-01-12T14:37:04.176Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 41,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Test3",
+    "body": "a",
+    "timestamp": "2022-01-12T14:37:04.203Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 42,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Test3",
+    "body": "a",
+    "timestamp": "2022-01-12T14:37:04.164Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 43,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Test3",
+    "body": "a",
+    "timestamp": "2022-01-12T14:37:04.234Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 44,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "aaaaaa",
+    "body": "aaaaaa",
+    "timestamp": "2022-01-12T14:42:55.802Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 45,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "aaaaaa",
+    "body": "aaaaaa",
+    "timestamp": "2022-01-12T14:42:55.819Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 46,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "aaaaaa",
+    "body": "aaaaaa",
+    "timestamp": "2022-01-12T14:42:55.827Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 47,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "aaaaaa",
+    "body": "aaaaaa",
+    "timestamp": "2022-01-12T14:42:55.844Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 48,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "AKAKAKAK",
+    "body": "KAKAKKAA",
+    "timestamp": "2022-01-12T14:44:01.212Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 49,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "AKAKAKAK",
+    "body": "KAKAKKAA",
+    "timestamp": "2022-01-12T14:44:01.235Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 50,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "AKAKAKAK",
+    "body": "KAKAKKAA",
+    "timestamp": "2022-01-12T14:44:01.278Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 51,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "AKAKAKAK",
+    "body": "KAKAKKAA",
+    "timestamp": "2022-01-12T14:44:01.292Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 52,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "aasa",
+    "body": "ssf",
+    "timestamp": "2022-01-12T15:44:05.126Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 53,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "aasa",
+    "body": "ssf",
+    "timestamp": "2022-01-12T15:44:05.137Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 54,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "asdasd",
+    "body": "asdasd",
+    "timestamp": "2022-01-12T15:44:50.649Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 55,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "asdasd",
+    "body": "asdasd",
+    "timestamp": "2022-01-12T15:44:50.678Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 56,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "asdasd",
+    "body": "asdasd",
+    "timestamp": "2022-01-12T15:44:50.683Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 57,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "asdasd",
+    "body": "asdasd",
+    "timestamp": "2022-01-12T15:44:50.704Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 58,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "asdasd",
+    "body": "asdasd",
+    "timestamp": "2022-01-12T15:44:50.707Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 59,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "asdasd",
+    "body": "asdasd",
+    "timestamp": "2022-01-12T15:44:50.765Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 60,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "hhhhh",
+    "body": "jjjjjj",
+    "timestamp": "2022-01-12T15:45:10.490Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 61,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "hhhhh",
+    "body": "jjjjjj",
+    "timestamp": "2022-01-12T15:45:10.493Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 62,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "hhhhh",
+    "body": "jjjjjj",
+    "timestamp": "2022-01-12T15:45:10.521Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 63,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "hhhhh",
+    "body": "jjjjjj",
+    "timestamp": "2022-01-12T15:45:10.555Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 64,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "hhhhh",
+    "body": "jjjjjj",
+    "timestamp": "2022-01-12T15:45:10.492Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 65,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "hhhhh",
+    "body": "jjjjjj",
+    "timestamp": "2022-01-12T15:45:10.618Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 66,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "hhhhh",
+    "body": "jjjjjj",
+    "timestamp": "2022-01-12T15:45:10.491Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 67,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "hhhhh",
+    "body": "jjjjjj",
+    "timestamp": "2022-01-12T15:45:10.642Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 68,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Quante volte?",
+    "body": "Boh",
+    "timestamp": "2022-01-12T15:46:35.075Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 69,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Quante volte?",
+    "body": "Boh",
+    "timestamp": "2022-01-12T15:46:35.084Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 70,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "TAnte",
+    "body": "tatnte",
+    "timestamp": "2022-01-12T15:46:53.791Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 71,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "TAnte",
+    "body": "tatnte",
+    "timestamp": "2022-01-12T15:46:53.802Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 72,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Doesn't",
+    "body": "work very well",
+    "timestamp": "2022-01-12T15:49:53.716Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 73,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "Doesn't",
+    "body": "work very well",
+    "timestamp": "2022-01-12T15:49:53.725Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 74,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Doesn't",
+    "body": "work very well",
+    "timestamp": "2022-01-12T15:49:53.717Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 75,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "Doesn't",
+    "body": "work very well",
+    "timestamp": "2022-01-12T15:49:53.758Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 76,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "YYYY",
+    "body": "AAAA",
+    "timestamp": "2022-01-12T15:57:42.758Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 77,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "YYYY",
+    "body": "AAAA",
+    "timestamp": "2022-01-12T15:57:42.769Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 78,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "TTTTTTT",
+    "body": "FFFFF",
+    "timestamp": "2022-01-12T15:57:59.722Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 79,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "TTTTTTT",
+    "body": "FFFFF",
+    "timestamp": "2022-01-12T15:57:59.730Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 80,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "BLBLBL",
+    "body": "test",
+    "timestamp": "2022-01-12T15:58:12.329Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 81,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "BLBLBL",
+    "body": "test",
+    "timestamp": "2022-01-12T15:58:12.341Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 82,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "BLBLBL",
+    "body": "test",
+    "timestamp": "2022-01-12T15:58:12.332Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 83,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "BLBLBL",
+    "body": "test",
+    "timestamp": "2022-01-12T15:58:12.367Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 84,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "asd",
+    "body": "asd",
+    "timestamp": "2022-01-12T16:07:21.933Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 85,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "asd",
+    "body": "asd",
+    "timestamp": "2022-01-12T16:07:21.946Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 86,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "OK",
+    "body": "Different approach",
+    "timestamp": "2022-01-12T16:20:37.646Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 87,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "OK",
+    "body": "Different approach",
+    "timestamp": "2022-01-12T16:20:37.658Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 88,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "test",
+    "body": "test",
+    "timestamp": "2022-01-12T16:20:53.626Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 89,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "test",
+    "body": "test",
+    "timestamp": "2022-01-12T16:20:53.632Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 90,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "test",
+    "body": "test",
+    "timestamp": "2022-01-12T16:20:53.650Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 91,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "test",
+    "body": "test",
+    "timestamp": "2022-01-12T16:20:53.676Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 92,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "GHGHGHGH",
+    "body": "aad",
+    "timestamp": "2022-01-12T16:25:32.029Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 93,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "GHGHGHGH",
+    "body": "aad",
+    "timestamp": "2022-01-12T16:25:32.039Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 94,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "asdaskkkkk",
+    "body": "kkkKKKKKKk",
+    "timestamp": "2022-01-12T16:29:03.365Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 95,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "asdaskkkkk",
+    "body": "kkkKKKKKKk",
+    "timestamp": "2022-01-12T16:29:03.375Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 96,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "asajass",
+    "body": "kkkKKKKKKKKafdshghfdsdhfsjashfjamsnxcjsk",
+    "timestamp": "2022-01-12T16:29:19.845Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 97,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "asajass",
+    "body": "kkkKKKKKKKKafdshghfdsdhfsjashfjamsnxcjsk",
+    "timestamp": "2022-01-12T16:29:19.847Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 98,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "asajass",
+    "body": "kkkKKKKKKKKafdshghfdsdhfsjashfjamsnxcjsk",
+    "timestamp": "2022-01-12T16:29:19.856Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 99,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "asajass",
+    "body": "kkkKKKKKKKKafdshghfdsdhfsjashfjamsnxcjsk",
+    "timestamp": "2022-01-12T16:29:19.883Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 100,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "SDGFGADF",
+    "body": "sdjfsndbvifjvnbdfisvdfisoniju",
+    "timestamp": "2022-01-12T16:41:26.931Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 101,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "SDGFGADF",
+    "body": "sdjfsndbvifjvnbdfisvdfisoniju",
+    "timestamp": "2022-01-12T16:41:26.943Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 102,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Second",
+    "body": "Second",
+    "timestamp": "2022-01-12T16:41:40.538Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 103,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Second",
+    "body": "Second",
+    "timestamp": "2022-01-12T16:41:40.550Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 104,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Third??!!",
+    "body": "Third??!!!",
+    "timestamp": "2022-01-12T16:41:58.493Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 105,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Third??!!",
+    "body": "Third??!!!",
+    "timestamp": "2022-01-12T16:41:58.504Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 106,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "ok",
+    "body": "Show this please",
+    "timestamp": "2022-01-12T16:42:42.973Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 107,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "ok",
+    "body": "Show this please",
+    "timestamp": "2022-01-12T16:42:42.987Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 108,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Final Test",
+    "body": "Final Test part 1",
+    "timestamp": "2022-01-12T16:42:57.656Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 109,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "Final Test",
+    "body": "Final Test part 1",
+    "timestamp": "2022-01-12T16:42:57.670Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 110,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "IIIIIII",
+    "body": "IIIIIII",
+    "timestamp": "2022-01-12T16:49:35.478Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 111,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "IIIIIII",
+    "body": "IIIIIII",
+    "timestamp": "2022-01-12T16:49:35.487Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 112,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "HHHHH",
+    "body": "HHHHHH",
+    "timestamp": "2022-01-12T16:49:45.121Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 113,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "HHHHH",
+    "body": "HHHHHH",
+    "timestamp": "2022-01-12T16:49:45.135Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 114,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "BBBBBB",
+    "body": "bbbbbbbbbbb",
+    "timestamp": "2022-01-12T16:50:37.465Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 115,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "BBBBBB",
+    "body": "bbbbbbbbbbb",
+    "timestamp": "2022-01-12T16:50:37.480Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 116,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "FFFFFFFF",
+    "body": "FFFFFFFFF",
+    "timestamp": "2022-01-12T16:51:21.194Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 117,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "FFFFFFFF",
+    "body": "FFFFFFFFF",
+    "timestamp": "2022-01-12T16:51:21.206Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 118,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "BBBBBB",
+    "body": "BBBBBB",
+    "timestamp": "2022-01-12T16:51:30.533Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 119,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "BBBBBB",
+    "body": "BBBBBB",
+    "timestamp": "2022-01-12T16:51:30.547Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 120,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "i",
+    "body": "YAY!",
+    "timestamp": "2022-01-12T16:51:44.411Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 121,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "i",
+    "body": "YAY!",
+    "timestamp": "2022-01-12T16:51:44.421Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 122,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "cry",
+    "body": "cry",
+    "timestamp": "2022-01-12T16:55:03.912Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 123,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "cry",
+    "body": "cry",
+    "timestamp": "2022-01-12T16:55:03.923Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 124,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "isi",
+    "body": "isi",
+    "timestamp": "2022-01-12T16:55:14.117Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 125,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "isi",
+    "body": "isi",
+    "timestamp": "2022-01-12T16:55:14.126Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 126,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "bob",
+    "body": "bob",
+    "timestamp": "2022-01-12T16:55:21.881Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 127,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "bob",
+    "body": "bob",
+    "timestamp": "2022-01-12T16:55:21.894Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 128,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Testing Archive",
+    "body": "Archive and unarchive me!",
+    "timestamp": "2022-01-12T16:58:13.104Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 129,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "Testing Archive",
+    "body": "Archive and unarchive me!",
+    "timestamp": "2022-01-12T16:58:13.120Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 130,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "t",
+    "body": "async",
+    "timestamp": "2022-01-12T17:13:00.478Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 131,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "t",
+    "body": "async",
+    "timestamp": "2022-01-12T17:13:00.487Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 132,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "test2",
+    "body": "async2",
+    "timestamp": "2022-01-12T17:13:09.845Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 133,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "test2",
+    "body": "async2",
+    "timestamp": "2022-01-12T17:13:09.854Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 134,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "asasa",
+    "body": "async3",
+    "timestamp": "2022-01-12T17:13:19.259Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 135,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "asasa",
+    "body": "async3",
+    "timestamp": "2022-01-12T17:13:19.267Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 136,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "test",
+    "body": "async4",
+    "timestamp": "2022-01-12T17:13:29.615Z",
+    "read": true,
+    "archived": true,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 137,
+  "fields": {
+    "user": 2,
+    "sender": 1,
+    "subject": "test",
+    "body": "async4",
+    "timestamp": "2022-01-12T17:13:29.621Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 138,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Re: Meeting time",
+    "body": "On Jan 09 2022, 09:30 PM, alex@alex.it wrote:\nHow about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-13T13:55:08.877Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      3
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 139,
+  "fields": {
+    "user": 3,
+    "sender": 1,
+    "subject": "Re: Meeting time",
+    "body": "On Jan 09 2022, 09:30 PM, alex@alex.it wrote:\nHow about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-13T13:55:08.887Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      3
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 140,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Re: Meeting time",
+    "body": "On Jan 13 2022, 01:55 PM, ale@ale.com wrote:\nOn Jan 09 2022, 09:30 PM, alex@alex.it wrote:\nHow about we meet tomorrow at 3pm?",
+    "timestamp": "2022-01-13T13:58:50.041Z",
+    "read": true,
+    "archived": true,
+    "recipients": [
+      1
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 141,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Hello!",
+    "body": "This is a greeting message.",
+    "timestamp": "2022-01-13T15:57:56.479Z",
+    "read": true,
+    "archived": true,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 142,
+  "fields": {
+    "user": 4,
+    "sender": 1,
+    "subject": "Hello!",
+    "body": "This is a greeting message.",
+    "timestamp": "2022-01-13T15:57:56.487Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      4
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 143,
+  "fields": {
+    "user": 5,
+    "sender": 6,
+    "subject": "Just check if everything works!",
+    "body": "It is",
+    "timestamp": "2022-01-13T16:25:01.214Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 144,
+  "fields": {
+    "user": 6,
+    "sender": 6,
+    "subject": "Just check if everything works!",
+    "body": "It is",
+    "timestamp": "2022-01-13T16:25:01.223Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 145,
+  "fields": {
+    "user": 5,
+    "sender": 6,
+    "subject": "Read this, it's super urgent!!!",
+    "body": "I forgot...",
+    "timestamp": "2022-01-13T16:25:53.314Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 146,
+  "fields": {
+    "user": 6,
+    "sender": 6,
+    "subject": "Read this, it's super urgent!!!",
+    "body": "I forgot...",
+    "timestamp": "2022-01-13T16:25:53.323Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 147,
+  "fields": {
+    "user": 5,
+    "sender": 6,
+    "subject": "Some stuff you might want to archive",
+    "body": ":-)",
+    "timestamp": "2022-01-13T16:26:58.057Z",
+    "read": true,
+    "archived": true,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 148,
+  "fields": {
+    "user": 6,
+    "sender": 6,
+    "subject": "Some stuff you might want to archive",
+    "body": ":-)",
+    "timestamp": "2022-01-13T16:26:58.063Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 149,
+  "fields": {
+    "user": 5,
+    "sender": 6,
+    "subject": "Reply me ASAP",
+    "body": "Hello....",
+    "timestamp": "2022-01-13T16:27:32.831Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 150,
+  "fields": {
+    "user": 6,
+    "sender": 6,
+    "subject": "Reply me ASAP",
+    "body": "Hello....",
+    "timestamp": "2022-01-13T16:27:32.838Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 151,
+  "fields": {
+    "user": 5,
+    "sender": 5,
+    "subject": "Re: Reply me ASAP",
+    "body": "On Jan 13 2022, 04:27 PM, sender_of@emails.com wrote:\nHello.... \n\n...world!",
+    "timestamp": "2022-01-13T16:28:57.731Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      6
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 152,
+  "fields": {
+    "user": 6,
+    "sender": 5,
+    "subject": "Re: Reply me ASAP",
+    "body": "On Jan 13 2022, 04:27 PM, sender_of@emails.com wrote:\nHello.... \n\n...world!",
+    "timestamp": "2022-01-13T16:28:57.739Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      6
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 153,
+  "fields": {
+    "user": 1,
+    "sender": 1,
+    "subject": "Same email address?",
+    "body": "Hi,\nI only wanted to check if you still have this address.\n\nBest regards\n\nAA",
+    "timestamp": "2022-01-13T16:31:06.874Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 154,
+  "fields": {
+    "user": 5,
+    "sender": 1,
+    "subject": "Same email address?",
+    "body": "Hi,\nI only wanted to check if you still have this address.\n\nBest regards\n\nAA",
+    "timestamp": "2022-01-13T16:31:06.881Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 155,
+  "fields": {
+    "user": 5,
+    "sender": 7,
+    "subject": "You won 1.000 cents!",
+    "body": "They are 1000!!!!",
+    "timestamp": "2022-01-13T16:32:33.197Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 156,
+  "fields": {
+    "user": 7,
+    "sender": 7,
+    "subject": "You won 1.000 cents!",
+    "body": "They are 1000!!!!",
+    "timestamp": "2022-01-13T16:32:33.204Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 157,
+  "fields": {
+    "user": 5,
+    "sender": 6,
+    "subject": "Re: Reply me ASAP",
+    "body": "On Jan 13 2022, 04:28 PM, the_user@mail.it wrote:\nOn Jan 13 2022, 04:27 PM, sender_of@emails.com wrote:\nHello.... \n...world!\n\nVery good thank you!",
+    "timestamp": "2022-01-13T16:53:08.295Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 158,
+  "fields": {
+    "user": 6,
+    "sender": 6,
+    "subject": "Re: Reply me ASAP",
+    "body": "On Jan 13 2022, 04:28 PM, the_user@mail.it wrote:\nOn Jan 13 2022, 04:27 PM, sender_of@emails.com wrote:\nHello.... \n...world!\n\nVery good thank you!",
+    "timestamp": "2022-01-13T16:53:08.302Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      5
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 159,
+  "fields": {
+    "user": 2,
+    "sender": 5,
+    "subject": "First mail",
+    "body": "Hello",
+    "timestamp": "2022-01-13T17:04:00.384Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 160,
+  "fields": {
+    "user": 5,
+    "sender": 5,
+    "subject": "First mail",
+    "body": "Hello",
+    "timestamp": "2022-01-13T17:04:00.401Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      2
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 161,
+  "fields": {
+    "user": 5,
+    "sender": 5,
+    "subject": "Re: Read this, it's super urgent!!!",
+    "body": "On Jan 13 2022, 04:25 PM, sender_of@emails.com wrote:\nI forgot...\n\nNever mind",
+    "timestamp": "2022-01-13T17:09:03.058Z",
+    "read": true,
+    "archived": false,
+    "recipients": [
+      6
+    ]
+  }
+},
+{
+  "model": "mail.email",
+  "pk": 162,
+  "fields": {
+    "user": 6,
+    "sender": 5,
+    "subject": "Re: Read this, it's super urgent!!!",
+    "body": "On Jan 13 2022, 04:25 PM, sender_of@emails.com wrote:\nI forgot...\n\nNever mind",
+    "timestamp": "2022-01-13T17:09:03.075Z",
+    "read": false,
+    "archived": false,
+    "recipients": [
+      6
+    ]
+  }
+}
+]

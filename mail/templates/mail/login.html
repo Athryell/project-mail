@@ -2,6 +2,11 @@
 
 {% block body %}
 
+    <p class="alert-info p-3 text-center">
+        This is a demo, so you can log in with the provided data to have a look at this email clone.<br>
+        (Mail: <strong>the_user@mail.it</strong> - Pw: <strong>user</strong>)
+    </p>
+
     <h2>Login</h2>
 
     {% if message %}
@@ -11,10 +16,10 @@
     <form action="{% url 'login' %}" method="post">
         {% csrf_token %}
         <div class="form-group">
-            <input autofocus class="form-control" type="email" name="email" placeholder="Email">
+            <input autofocus class="form-control" type="email" name="email" placeholder="Email" value="the_user@mail.it">
         </div>
         <div class="form-group">
-            <input class="form-control" type="password" name="password" placeholder="Password">
+            <input class="form-control" type="password" name="password" placeholder="Password" value="user">
         </div>
         <input class="btn btn-primary" type="submit" value="Login">
     </form>
